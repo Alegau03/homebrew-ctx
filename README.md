@@ -2,15 +2,15 @@
 
 ## How do I install these formulae?
 
-`brew install alegau03/ctx/<formula>`
+`brew install alegau03/ctx/ctx`
 
-Or `brew tap alegau03/ctx` and then `brew install <formula>`.
+Or `brew tap alegau03/ctx` and then `brew install ctx`.
 
 Or, in a `brew bundle` `Brewfile`:
 
 ```ruby
 tap "alegau03/ctx"
-brew "<formula>"
+brew "ctx"
 ```
 
 ## Documentation
